@@ -1,4 +1,4 @@
-# Classify-Salary-ScikitLearn
+# Classify-Salary-Scikit-Learn
 
 You can find dataset from here. http://mlr.cs.umass.edu/ml/datasets/Adult 
 
