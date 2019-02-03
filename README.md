@@ -1,5 +1,7 @@
 # Classify-Salary-Scikit-Learn
 
+In this Project using Logistic Regression Method I got 92% accuracy on both traing and tesing datasets.
+
 You can find dataset from here. http://mlr.cs.umass.edu/ml/datasets/Adult 
 
 I have done 2 things manually on datasets (On both training and testing datasets) :
